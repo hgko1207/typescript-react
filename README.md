@@ -8,3 +8,5 @@ yarn add @types/styled-components
 ```
 
 - definitely typed
+
+- Add File => styled.d.ts
